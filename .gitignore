@@ -1,6 +1,8 @@
 # Object file
 *.o
 
+# it works?
+
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
